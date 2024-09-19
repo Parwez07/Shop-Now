@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shop Now</string>
+    <string name="introTitles"><font color ="#5b4cbd" > Your Shopping</font> Destination\nfor Everything</string>
+    <string name="introSubTitles">Get personalise recommendations \nEnjoy fast, free shipping</string>
+    <string name="introBtnText">Let\'s Get Started</string>
+    <string name="singin">Already have an Account?<font color ="#5b4cbd" > <b>Sign In</b> </font></string>
+
+</resources>
